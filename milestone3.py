@@ -52,7 +52,7 @@ if page == "Home":
     - **Data Analysis Page:** On this page, users can view various types of data analysis views. Select different analysis categories such as highest-grossing movies, annual movie revenue, etc., from a dropdown menu. Each selection will update the charts accordingly to display specific analysis results.
     - **Research Questions Page:** This page provides detailed explanations of the research questions and their answers, including the purpose of the project, the findings, and key insights from the research process.
     - **Search Movies Page:** Users can search for specific movies by entering a movie name. If the movie is available in the database, the app will display detailed information about the movie, including box office, director, and actors.
-   - **Data Description Page:** This page provides a summary of the datasets utilized in the application. It includes information about the source of each dataset, the types of data each contains, and the methods used for data collection and preprocessing. This section is designed to give users a clear understanding of the foundational data that supports the analyses presented in the app.
+    - **Data Description Page:** This page provides a summary of the datasets utilized in the application. It includes information about the source of each dataset, the types of data each contains, and the methods used for data collection and preprocessing. This section is designed to give users a clear understanding of the foundational data that supports the analyses presented in the app.
     """)
 
     st.subheader("Main Issues and Recommendations for Improvement:")
